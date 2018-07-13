@@ -4,4 +4,4 @@ class Person
     @name
   end 
   
-  def 
+  def name
